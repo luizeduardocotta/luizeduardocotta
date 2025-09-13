@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Luiz Eduardo Monteiro Cotta 😁
+## Bem-vindo(a) ao perfil do Luiz Eduardo Monteiro Cotta 
 
  <div>
    <a href="https://github.com/luizeduardocotta">
