@@ -41,7 +41,7 @@ Combinando uma sólida bagagem corporativa e de análise de dados (Bacharelado e
 ## 📬 Conecte-se Comigo
 
 <div> 
-  <a href=["https://agendamentocerto.com.br/](https://luizeduardocotta.github.io/portfolio-luiz/)" target="_blank"><img src="https://img.shields.io/badge/Portfólio-111827?style=for-the-badge&logo=vercel&logoColor=white"></a> 
+  <a href=["[https://agendamentocerto.com.br](https://luizeduardocotta.github.io/portfolio-luiz/)/](https://luizeduardocotta.github.io/portfolio-luiz/)" target="_blank"><img src="https://img.shields.io/badge/Portfólio-111827?style=for-the-badge&logo=vercel&logoColor=white"></a> 
   <a href="https://www.linkedin.com/in/luizeduardomonteirocotta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:luizeduardocotta@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://wa.me/5531998615852" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
