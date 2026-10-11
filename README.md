@@ -2,14 +2,14 @@
 
 ### Desenvolvedor Front-End (React | Next.js | TypeScript)
 
-Sou Desenvolvedor Front-End especializado na criação de interfaces web modernas, reativas e de alta performance utilizando **React, Next.js, TypeScript e Tailwind CSS**[cite: 1].
+Sou Desenvolvedor Front-End especializado na criação de interfaces web modernas, reativas e de alta performance utilizando **React, Next.js, TypeScript e Tailwind CSS**.
 
-Combinando uma sólida bagagem corporativa e de análise de dados (Bacharelado e MBA em Administração) com a engenharia de software, o meu foco está em construir componentes reutilizáveis, consumo eficiente de APIs REST e dashboards intuitivos focados em excelente experiência do utilizador (UX)[cite: 1].
+Combinando uma sólida bagagem corporativa e de análise de dados (Bacharelado e MBA em Administração) com a engenharia de software, o meu foco está em construir componentes reutilizáveis, consumo eficiente de APIs REST e dashboards intuitivos focados em excelente experiência do utilizador (UX).
 
 ---
 
 ## 🚀 Projeto em Destaque: Agendamento Certo (SaaS)
-- 📅 **[Agendamento Certo](https://agendamentocerto.com.br/)**: Plataforma SaaS com painel administrativo e sistema de agendamentos em tempo real. Desenvolvido com **Next.js, React, TypeScript, Tailwind CSS** e integração assíncrona com cliente Supabase[cite: 1].
+- 📅 **[Agendamento Certo](https://agendamentocerto.com.br/)**: Plataforma SaaS com painel administrativo e sistema de agendamentos em tempo real. Desenvolvido com **Next.js, React, TypeScript, Tailwind CSS** e integração assíncrona com cliente Supabase.
 
 ---
 
@@ -31,10 +31,10 @@ Combinando uma sólida bagagem corporativa e de análise de dados (Bacharelado e
 ---
 
 ## 🎓 Formação & Bagagem de Negócios
-- 💻 **Formação em Programação Full Stack / Front-End** — DevQuest (2024 – 2025)[cite: 1]
-- 🎓 **MBA em Gestão Estratégica de Negócios** — Universidade FUMEC (2019 – 2020)[cite: 1]
-- 🎓 **Bacharelado em Administração de Empresas** — Universidade FUMEC (2013 – 2017)[cite: 1]
-- 💼 Experiência corporativa em análise de dados (SQL, Power BI), processos de negócios e integração com sistemas enterprise (SAP / Salesforce)[cite: 1].
+- 💻 **Formação em Programação Full Stack / Front-End** — DevQuest (2024 – 2025)
+- 🎓 **MBA em Gestão Estratégica de Negócios** — Universidade FUMEC (2019 – 2020)
+- 🎓 **Bacharelado em Administração de Empresas** — Universidade FUMEC (2013 – 2017)
+- 💼 Experiência corporativa em análise de dados (SQL, Power BI), processos de negócios e integração com sistemas enterprise (SAP / Salesforce).
 
 ---
 
